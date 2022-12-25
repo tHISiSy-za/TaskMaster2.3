@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.checkbox{
+    margin: auto 0;
+}
+
+.toDoListAll{
+    padding: 0 5%;
+}
+
+h3{
+    text-align: left;
+}
+
+row{
+    margin: 0.5rem auto;
+}
+
+.hide{
+    border: none;
+}
